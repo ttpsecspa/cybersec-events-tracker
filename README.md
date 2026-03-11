@@ -87,7 +87,7 @@ Este repositorio se actualiza automáticamente cada **lunes y jueves a las 08:00
 
 ---
 
-_🛡️ Desarrollado y mantenido por [TTPSEC SpA](https://ttpsec.cl) | Última actualización: 2026-03-10_
+_🛡️ Desarrollado y mantenido por [TTPSEC SpA](https://ttpsec.cl) | Última actualización: 2026-03-11_
 
 
 ---
