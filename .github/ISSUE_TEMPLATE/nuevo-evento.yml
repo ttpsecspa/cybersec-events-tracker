@@ -1,0 +1,79 @@
+name: "\U0001f4c5 Sugerir nuevo evento"
+description: "Sugiere un evento de ciberseguridad, tecnología o innovación para agregar al tracker"
+title: "[Evento] "
+labels: ["nuevo-evento"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## \U0001f6e1\ufe0f Sugerir un evento al CyberSec Events Tracker
+        Completa los campos para sugerir un nuevo evento.
+
+  - type: input
+    id: nombre
+    attributes:
+      label: "Nombre del evento"
+      placeholder: "Ej: CyberSecurity Summit Chile 2026"
+    validations:
+      required: true
+
+  - type: input
+    id: fecha
+    attributes:
+      label: "Fecha de inicio (YYYY-MM-DD)"
+      placeholder: "2026-06-15"
+    validations:
+      required: true
+
+  - type: input
+    id: fecha_fin
+    attributes:
+      label: "Fecha de fin (YYYY-MM-DD, opcional)"
+      placeholder: "2026-06-17"
+
+  - type: input
+    id: ubicacion
+    attributes:
+      label: "Ubicación"
+      placeholder: "Ej: Santiago, Chile"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: "URL del evento"
+      placeholder: "https://..."
+
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: "Categoría principal"
+      options:
+        - Ciberseguridad
+        - OT/ICS
+        - Cloud & DevSecOps
+        - IA & Data
+        - Fintech
+        - "Transformación Digital"
+        - Hacking & CTF
+        - Governance & Compliance
+    validations:
+      required: true
+
+  - type: dropdown
+    id: formato
+    attributes:
+      label: "Formato"
+      options:
+        - Presencial
+        - Online
+        - "Híbrido"
+    validations:
+      required: true
+
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: "Descripción"
+      placeholder: "Breve descripción del evento, temáticas principales, público objetivo..."
