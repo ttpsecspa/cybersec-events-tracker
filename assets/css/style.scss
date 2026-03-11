@@ -50,13 +50,23 @@ header h2 {
 
 /* Links */
 a {
-  color: var(--ttpsec-purple-light) !important;
+  color: #b8a4f8 !important;
   text-decoration: none;
 }
 
 a:hover {
   color: #fff !important;
   text-shadow: 0 0 8px var(--ttpsec-purple);
+}
+
+/* Links en tablas: alto contraste */
+table td a {
+  color: #d4c4fc !important;
+  font-weight: 500;
+}
+
+table td a:hover {
+  color: #fff !important;
 }
 
 /* Headers */
