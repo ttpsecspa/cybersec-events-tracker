@@ -2,9 +2,9 @@
   "metadata": {
     "project": "cybersec-events-tracker",
     "maintainer": "TTPSEC SpA — https://ttpsec.cl",
-    "last_updated": "2026-03-11 01:50:54 UTC",
-    "total_events": 16,
-    "upcoming_events": 13,
+    "last_updated": "2026-03-10 23:28:33 UTC",
+    "total_events": 37,
+    "upcoming_events": 34,
     "categories": [
       "Ciberseguridad",
       "OT/ICS",
@@ -43,7 +43,7 @@
       "last_updated": "2026-03-10",
       "event_id": "1c34e2068fa7",
       "is_upcoming": false,
-      "days_until": -133
+      "days_until": -132
     },
     {
       "name": "Hotel Room Blocks for DEF CON 34 are Open!",
@@ -66,7 +66,7 @@
       "last_updated": "2026-03-10",
       "event_id": "902cbb434780",
       "is_upcoming": false,
-      "days_until": -25
+      "days_until": -24
     },
     {
       "name": "Introducing the New DEF CON CTF Organizers: Benevolent Bureau of Birds!",
@@ -89,7 +89,35 @@
       "last_updated": "2026-03-10",
       "event_id": "488344a46326",
       "is_upcoming": false,
-      "days_until": -8
+      "days_until": -7
+    },
+    {
+      "name": "Andina Link Smart Cities Expo 2026",
+      "date_start": "2026-03-09",
+      "date_end": "2026-03-12",
+      "location": "Hotel Las Americas, Cartagena de Indias",
+      "country": "Colombia",
+      "region": "LATAM",
+      "categories": [
+        "Transformación Digital",
+        "IA & Data"
+      ],
+      "url": "https://andinalink.com/",
+      "description": "31+ años. Innovación, tecnología y telecomunicaciones en LATAM. 200+ expositores, 6,000+ asistentes",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "Andina Link",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "smart-cities",
+        "telecom",
+        "IoT"
+      ],
+      "source": "Andina Link",
+      "last_updated": "2026-03-10",
+      "event_id": "8bc5bec1614f",
+      "is_upcoming": true,
+      "days_until": -1
     },
     {
       "name": "CyberSecurity Bank & Government Chile 2026",
@@ -118,7 +146,94 @@
       "last_updated": "2026-03-10",
       "event_id": "b0fc60058713",
       "is_upcoming": true,
-      "days_until": 6
+      "days_until": 7
+    },
+    {
+      "name": "Cybertech Latin America 2026",
+      "date_start": "2026-03-18",
+      "date_end": null,
+      "location": "City of Knowledge, Ciudad de Panamá",
+      "country": "Panamá",
+      "region": "LATAM",
+      "categories": [
+        "Ciberseguridad",
+        "Governance & Compliance"
+      ],
+      "url": "https://panama.cybertechconference.com/",
+      "description": "Plataforma internacional donde tecnología y ciberseguridad convergen. Academia, gobierno e industria",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "Cybertech Global",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "gobierno",
+        "industria",
+        "Panamá"
+      ],
+      "source": "Cybertech Latin America",
+      "last_updated": "2026-03-10",
+      "event_id": "d2a6adc26519",
+      "is_upcoming": true,
+      "days_until": 8
+    },
+    {
+      "name": "Copa América de Ciberseguridad OEA 2026",
+      "date_start": "2026-03-18",
+      "date_end": null,
+      "location": "Virtual (CTF)",
+      "country": "USA",
+      "region": "Global",
+      "categories": [
+        "Hacking & CTF",
+        "Ciberseguridad"
+      ],
+      "url": "https://www.oas.org/",
+      "description": "1° edición. CTF organizado por OEA/CICTE. Equipos de estados miembros miden preparación ante incidentes",
+      "cost": "Gratis",
+      "format": "Online",
+      "organizer": "OEA / CICTE",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "CTF",
+        "CSIRT",
+        "gobierno",
+        "OEA"
+      ],
+      "source": "OEA",
+      "last_updated": "2026-03-10",
+      "event_id": "1d292de2a64d",
+      "is_upcoming": true,
+      "days_until": 8
+    },
+    {
+      "name": "HackConRD 2026 (4ta Edición)",
+      "date_start": "2026-03-27",
+      "date_end": "2026-03-28",
+      "location": "Dominican Fiesta Convention Center, Santo Domingo",
+      "country": "Rep. Dominicana",
+      "region": "LATAM",
+      "categories": [
+        "Hacking & CTF",
+        "Ciberseguridad",
+        "IA & Data"
+      ],
+      "url": "https://hackconrd.org/",
+      "description": "El evento de ciberseguridad y hacking más grande del Caribe y Centroamérica. 600+ asistentes",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "RedTeamRD",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "hacking",
+        "Caribe",
+        "CTF",
+        "RF"
+      ],
+      "source": "HackConRD",
+      "last_updated": "2026-03-10",
+      "event_id": "f363f7ec0047",
+      "is_upcoming": true,
+      "days_until": 17
     },
     {
       "name": "RSA Conference 2026",
@@ -148,7 +263,7 @@
       "last_updated": "2026-03-10",
       "event_id": "0f3e93cb6210",
       "is_upcoming": true,
-      "days_until": 26
+      "days_until": 27
     },
     {
       "name": "MadeInnConce 2026",
@@ -176,7 +291,89 @@
       "last_updated": "2026-03-10",
       "event_id": "b5d3b07e27b3",
       "is_upcoming": true,
-      "days_until": 27
+      "days_until": 28
+    },
+    {
+      "name": "CyberSecurity Bank & Government Perú 2026",
+      "date_start": "2026-04-23",
+      "date_end": null,
+      "location": "Lima, Perú",
+      "country": "Perú",
+      "region": "LATAM",
+      "categories": [
+        "Ciberseguridad",
+        "Governance & Compliance"
+      ],
+      "url": "https://www.mticsproducciones.com/",
+      "description": "14° edición del congreso de ciberseguridad enfocado en banca y gobierno",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "MTICS Producciones",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "banca",
+        "gobierno",
+        "Perú"
+      ],
+      "source": "MTICS Producciones",
+      "last_updated": "2026-03-10",
+      "event_id": "657e5ad2a768",
+      "is_upcoming": true,
+      "days_until": 44
+    },
+    {
+      "name": "BSides Colombia 2026",
+      "date_start": "2026-04-25",
+      "date_end": null,
+      "location": "",
+      "country": "Colombia",
+      "region": "Global",
+      "categories": [
+        "IA & Data",
+        "Hacking & CTF"
+      ],
+      "url": "https://www.eventbrite.co/e/entradas-bsides-colombia-2026-pereira-1981386899554?aff=eprofsaved",
+      "description": "",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "",
+      "cfp_deadline": null,
+      "relevance_tags": [],
+      "source": "BSides Colombia",
+      "last_updated": "2026-03-10",
+      "event_id": "d824a43d01f5",
+      "is_upcoming": true,
+      "days_until": 46
+    },
+    {
+      "name": "Gartner Security & Risk Management Summit Brasil 2026",
+      "date_start": "2026-04-28",
+      "date_end": "2026-04-29",
+      "location": "São Paulo, Brasil",
+      "country": "Brasil",
+      "region": "LATAM",
+      "categories": [
+        "Governance & Compliance",
+        "Ciberseguridad",
+        "Cloud & DevSecOps"
+      ],
+      "url": "https://www.gartner.com/en/conferences/la/security-risk-management-brazil",
+      "description": "Cumbre de estrategia de ciberseguridad, riesgo, IA y cloud con expertos Gartner",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "Gartner",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "Gartner",
+        "CISO",
+        "risk",
+        "strategy"
+      ],
+      "source": "Gartner Security & Risk (Brasil)",
+      "last_updated": "2026-03-10",
+      "event_id": "a6a56b0a9097",
+      "is_upcoming": true,
+      "days_until": 49
     },
     {
       "name": "8.8 Unreal Peru 2026",
@@ -204,7 +401,7 @@
       "last_updated": "2026-03-10",
       "event_id": "ed1f484c10c3",
       "is_upcoming": true,
-      "days_until": 56
+      "days_until": 57
     },
     {
       "name": "Chile Fintech Forum 2026",
@@ -232,7 +429,36 @@
       "last_updated": "2026-03-10",
       "event_id": "bdf8913dfd42",
       "is_upcoming": true,
-      "days_until": 56
+      "days_until": 57
+    },
+    {
+      "name": "LACNIC 45",
+      "date_start": "2026-05-11",
+      "date_end": "2026-05-14",
+      "location": "Guadalajara, México",
+      "country": "México",
+      "region": "LATAM",
+      "categories": [
+        "Ciberseguridad",
+        "Cloud & DevSecOps"
+      ],
+      "url": "https://www.lacnic.net/",
+      "description": "Encuentro regional multistakeholder: Internet, seguridad de redes e infraestructura en LATAM",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "LACNIC",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "internet",
+        "IPv6",
+        "infraestructura",
+        "redes"
+      ],
+      "source": "LACNIC",
+      "last_updated": "2026-03-10",
+      "event_id": "3e3252bd94b7",
+      "is_upcoming": true,
+      "days_until": 62
     },
     {
       "name": "CyberSecurity Bank & Government México 2026",
@@ -260,7 +486,83 @@
       "last_updated": "2026-03-10",
       "event_id": "0e28087eb279",
       "is_upcoming": true,
-      "days_until": 64
+      "days_until": 65
+    },
+    {
+      "name": "Ekoparty Miami 2026",
+      "date_start": "2026-05-21",
+      "date_end": "2026-05-22",
+      "location": "Miami Beach, FL",
+      "country": "USA",
+      "region": "Global",
+      "categories": [
+        "Hacking & CTF",
+        "Ciberseguridad"
+      ],
+      "url": "https://ekoparty.org/miami/",
+      "description": "Primera edición internacional de Ekoparty. Charlas, villages, CTF y networking",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "Ekoparty",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "ekoparty",
+        "hacking",
+        "LATAM-community"
+      ],
+      "source": "Ekoparty",
+      "last_updated": "2026-03-10",
+      "event_id": "b4742deb97b3",
+      "is_upcoming": true,
+      "days_until": 72
+    },
+    {
+      "name": "21 y 22 de mayo 2026",
+      "date_start": "2026-05-22",
+      "date_end": null,
+      "location": "",
+      "country": "",
+      "region": "Global",
+      "categories": [
+        "Ciberseguridad",
+        "Hacking & CTF"
+      ],
+      "url": "https://ekoparty.org/miami/",
+      "description": "",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "",
+      "cfp_deadline": null,
+      "relevance_tags": [],
+      "source": "Ekoparty",
+      "last_updated": "2026-03-10",
+      "event_id": "70359c10411a",
+      "is_upcoming": true,
+      "days_until": 73
+    },
+    {
+      "name": "EKOPARTY MIAMI",
+      "date_start": "2026-05-22",
+      "date_end": null,
+      "location": "",
+      "country": "",
+      "region": "Global",
+      "categories": [
+        "Ciberseguridad",
+        "Hacking & CTF"
+      ],
+      "url": "https://ekoparty.org/miami/",
+      "description": "",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "",
+      "cfp_deadline": null,
+      "relevance_tags": [],
+      "source": "Ekoparty",
+      "last_updated": "2026-03-10",
+      "event_id": "c14aef02fce8",
+      "is_upcoming": true,
+      "days_until": 73
     },
     {
       "name": "CCICON LATAM 2026 - Congreso Ciberseguridad Industrial",
@@ -289,7 +591,35 @@
       "last_updated": "2026-03-10",
       "event_id": "0fba6e434d43",
       "is_upcoming": true,
-      "days_until": 76
+      "days_until": 77
+    },
+    {
+      "name": "SEGURITEC Perú 2026",
+      "date_start": "2026-05-27",
+      "date_end": "2026-05-29",
+      "location": "Centro de Exposiciones Jockey, Lima",
+      "country": "Perú",
+      "region": "LATAM",
+      "categories": [
+        "Ciberseguridad",
+        "OT/ICS"
+      ],
+      "url": "https://www.seguritecperu.com/",
+      "description": "15° edición. Feria líder de seguridad y comunicaciones en Latinoamérica",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "SEGURITEC",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "feria",
+        "seguridad-física",
+        "expo"
+      ],
+      "source": "SEGURITEC Perú",
+      "last_updated": "2026-03-10",
+      "event_id": "6c07de83597f",
+      "is_upcoming": true,
+      "days_until": 78
     },
     {
       "name": "Expo Seguridad México + Infosecurity México 2026",
@@ -317,7 +647,35 @@
       "last_updated": "2026-03-10",
       "event_id": "a5c860b750fd",
       "is_upcoming": true,
-      "days_until": 83
+      "days_until": 84
+    },
+    {
+      "name": "FIRST Annual Conference 2026 (38th)",
+      "date_start": "2026-06-14",
+      "date_end": "2026-06-19",
+      "location": "Denver, Colorado",
+      "country": "USA",
+      "region": "Global",
+      "categories": [
+        "Ciberseguridad",
+        "Governance & Compliance"
+      ],
+      "url": "https://www.first.org/conference/2026/",
+      "description": "Conferencia anual CSIRT/PSIRT — líderes mundiales en respuesta a incidentes",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "FIRST.org",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "CSIRT",
+        "incident-response",
+        "PSIRT"
+      ],
+      "source": "FIRST.org",
+      "last_updated": "2026-03-10",
+      "event_id": "c76a34e21ea6",
+      "is_upcoming": true,
+      "days_until": 96
     },
     {
       "name": "Black Hat USA 2026",
@@ -346,7 +704,7 @@
       "last_updated": "2026-03-10",
       "event_id": "f9b1e1a413ae",
       "is_upcoming": true,
-      "days_until": 143
+      "days_until": 144
     },
     {
       "name": "DEF CON 34",
@@ -375,7 +733,65 @@
       "last_updated": "2026-03-10",
       "event_id": "d4f29d987196",
       "is_upcoming": true,
-      "days_until": 148
+      "days_until": 149
+    },
+    {
+      "name": "CrowdStrike Fal.Con 2026",
+      "date_start": "2026-08-31",
+      "date_end": "2026-09-03",
+      "location": "Mandalay Bay, Las Vegas, NV",
+      "country": "USA",
+      "region": "Global",
+      "categories": [
+        "Ciberseguridad",
+        "Cloud & DevSecOps"
+      ],
+      "url": "https://www.crowdstrike.com/en-us/events/fal-con/",
+      "description": "10,000+ asistentes. Threat Summit, keynotes, labs prácticos. La mayor edición",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "CrowdStrike",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "threat-intel",
+        "endpoint",
+        "XDR",
+        "cloud"
+      ],
+      "source": "CrowdStrike Fal.Con",
+      "last_updated": "2026-03-10",
+      "event_id": "785a76ad1002",
+      "is_upcoming": true,
+      "days_until": 174
+    },
+    {
+      "name": "ANDICOM 2026",
+      "date_start": "2026-09-01",
+      "date_end": "2026-09-04",
+      "location": "Hotel Las Americas, Cartagena de Indias",
+      "country": "Colombia",
+      "region": "LATAM",
+      "categories": [
+        "Ciberseguridad",
+        "IA & Data",
+        "Transformación Digital"
+      ],
+      "url": "https://andicom.co/en/",
+      "description": "Congreso TIC premier de LATAM. Ciberseguridad, IA, Smart Cities",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "CINTEL",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "telecom",
+        "smart-cities",
+        "IA"
+      ],
+      "source": "ANDICOM",
+      "last_updated": "2026-03-10",
+      "event_id": "c855938084dc",
+      "is_upcoming": true,
+      "days_until": 175
     },
     {
       "name": "SeguridadExpo Chile 2026",
@@ -403,7 +819,7 @@
       "last_updated": "2026-03-10",
       "event_id": "fe923a8d4d9e",
       "is_upcoming": true,
-      "days_until": 181
+      "days_until": 182
     },
     {
       "name": "América Digital 2026 - 11° Congreso Latinoamericano",
@@ -433,7 +849,94 @@
       "last_updated": "2026-03-10",
       "event_id": "26636a114779",
       "is_upcoming": true,
-      "days_until": 182
+      "days_until": 183
+    },
+    {
+      "name": "ISACA Latin American Congress 2026",
+      "date_start": "2026-09-09",
+      "date_end": "2026-09-11",
+      "location": "JW Marriott, Quito",
+      "country": "Ecuador",
+      "region": "LATAM",
+      "categories": [
+        "Governance & Compliance",
+        "Ciberseguridad"
+      ],
+      "url": "https://www.isaca.org/training-and-events",
+      "description": "Congreso regional de auditoría, ciberseguridad y gestión de riesgos para CIOs y CISOs",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "ISACA",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "auditoría",
+        "governance",
+        "CISO",
+        "riesgo"
+      ],
+      "source": "ISACA Events",
+      "last_updated": "2026-03-10",
+      "event_id": "7feaeab53ead",
+      "is_upcoming": true,
+      "days_until": 183
+    },
+    {
+      "name": "DragonJAR Security Conference 2026 (13° Edición)",
+      "date_start": "2026-09-10",
+      "date_end": "2026-09-11",
+      "location": "Centro de Eventos El Tesoro, Medellín",
+      "country": "Colombia",
+      "region": "LATAM",
+      "categories": [
+        "Hacking & CTF",
+        "Ciberseguridad"
+      ],
+      "url": "https://www.dragonjarcon.org/",
+      "description": "La conferencia de seguridad informática más influyente de Colombia. 0-day research, red team",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "DragonJAR",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "0-day",
+        "red-team",
+        "ofensivo",
+        "research"
+      ],
+      "source": "DragonJAR Security Conference",
+      "last_updated": "2026-03-10",
+      "event_id": "d9686334b442",
+      "is_upcoming": true,
+      "days_until": 184
+    },
+    {
+      "name": "Mind The Sec 2026",
+      "date_start": "2026-09-15",
+      "date_end": "2026-09-17",
+      "location": "Transamerica Expo Center, São Paulo",
+      "country": "Brasil",
+      "region": "LATAM",
+      "categories": [
+        "Ciberseguridad",
+        "Governance & Compliance"
+      ],
+      "url": "https://www.mindthesec.com.br/",
+      "description": "Mayor congreso de ciberseguridad del hemisferio sur. 10,000+ participantes, 100+ sponsors",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "Mind The Sec",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "enterprise",
+        "networking",
+        "expo",
+        "Brasil"
+      ],
+      "source": "Mind The Sec",
+      "last_updated": "2026-03-10",
+      "event_id": "e649bc2a2791",
+      "is_upcoming": true,
+      "days_until": 189
     },
     {
       "name": "8.8 Unreal Chile 2026",
@@ -462,7 +965,94 @@
       "last_updated": "2026-03-10",
       "event_id": "d62de60fc340",
       "is_upcoming": true,
-      "days_until": 204
+      "days_until": 205
+    },
+    {
+      "name": "Futurecom 2026 (31° Edición)",
+      "date_start": "2026-10-06",
+      "date_end": "2026-10-08",
+      "location": "São Paulo Expo, São Paulo",
+      "country": "Brasil",
+      "region": "LATAM",
+      "categories": [
+        "Transformación Digital",
+        "Ciberseguridad",
+        "Cloud & DevSecOps"
+      ],
+      "url": "https://www.futurecom.com.br/",
+      "description": "29,000+ personas de 40 países. 5G/6G, IoT, cloud, ciberseguridad, data centers",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "Futurecom",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "5G",
+        "IoT",
+        "telecom",
+        "cloud"
+      ],
+      "source": "Futurecom",
+      "last_updated": "2026-03-10",
+      "event_id": "8bde749fede2",
+      "is_upcoming": true,
+      "days_until": 210
+    },
+    {
+      "name": "CyberSecurity Bank & Government Panamá 2026",
+      "date_start": "2026-10-22",
+      "date_end": null,
+      "location": "Sheraton Grand Panama, Ciudad de Panamá",
+      "country": "Panamá",
+      "region": "LATAM",
+      "categories": [
+        "Ciberseguridad",
+        "Governance & Compliance"
+      ],
+      "url": "https://www.mticsproducciones.com/cybersecurity-bank-and-government-panama-2026/",
+      "description": "Charlas y paneles exclusivos de ciberseguridad para banca y gobierno en Panamá",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "MTICS Producciones",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "banca",
+        "gobierno",
+        "Panamá"
+      ],
+      "source": "MTICS Producciones",
+      "last_updated": "2026-03-10",
+      "event_id": "8915c2942e70",
+      "is_upcoming": true,
+      "days_until": 226
+    },
+    {
+      "name": "Ekoparty Buenos Aires 2026",
+      "date_start": "2026-11-02",
+      "date_end": "2026-11-04",
+      "location": "Centro de Convenciones Buenos Aires (CEC)",
+      "country": "Argentina",
+      "region": "LATAM",
+      "categories": [
+        "Hacking & CTF",
+        "Ciberseguridad"
+      ],
+      "url": "https://ekoparty.org/",
+      "description": "La conferencia de ciberseguridad más grande de LATAM. 10,000 asistentes, 250+ charlas, CTF, villages",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "Ekoparty",
+      "cfp_deadline": null,
+      "relevance_tags": [
+        "hacking",
+        "CTF",
+        "villages",
+        "comunidad"
+      ],
+      "source": "Ekoparty",
+      "last_updated": "2026-03-10",
+      "event_id": "6dad7a3e266d",
+      "is_upcoming": true,
+      "days_until": 237
     }
   ]
 }
