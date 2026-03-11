@@ -1,0 +1,163 @@
+---
+---
+
+@import "jekyll-theme-hacker";
+
+/* ── TTPSEC SpA Brand Overrides ── */
+
+:root {
+  --ttpsec-purple: #5E17EB;
+  --ttpsec-purple-light: #7B3FF2;
+  --ttpsec-purple-dark: #4A11C0;
+  --ttpsec-bg: #0d1117;
+  --ttpsec-bg-alt: #161b22;
+  --ttpsec-text: #e6edf3;
+  --ttpsec-text-muted: #8b949e;
+  --ttpsec-border: #30363d;
+}
+
+body {
+  background-color: var(--ttpsec-bg);
+  color: var(--ttpsec-text);
+  font-family: 'Segoe UI', -apple-system, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+/* Header compacto */
+.inner {
+  max-width: 960px;
+}
+
+header {
+  padding: 15px 0 !important;
+  background: linear-gradient(135deg, var(--ttpsec-bg) 0%, #1a0a3e 100%) !important;
+  border-bottom: 2px solid var(--ttpsec-purple);
+}
+
+header h1 {
+  font-size: 22px !important;
+  margin: 0 !important;
+  letter-spacing: 1px;
+}
+
+header h2 {
+  font-size: 13px !important;
+  margin: 4px 0 0 0 !important;
+  color: var(--ttpsec-text-muted) !important;
+  font-weight: 400;
+}
+
+/* Links */
+a {
+  color: var(--ttpsec-purple-light) !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff !important;
+  text-shadow: 0 0 8px var(--ttpsec-purple);
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ttpsec-text) !important;
+  font-weight: 600;
+}
+
+h1 { font-size: 1.8em; border-bottom: 1px solid var(--ttpsec-border); padding-bottom: 8px; }
+h2 { font-size: 1.4em; border-bottom: 1px solid var(--ttpsec-border); padding-bottom: 6px; }
+h3 { font-size: 1.15em; }
+
+/* Tablas estilo TTPSEC */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  font-size: 14px;
+}
+
+table th {
+  background: var(--ttpsec-purple-dark) !important;
+  color: #fff !important;
+  padding: 8px 12px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border: 1px solid var(--ttpsec-border);
+}
+
+table td {
+  padding: 6px 12px;
+  border: 1px solid var(--ttpsec-border);
+  background: var(--ttpsec-bg-alt);
+  color: var(--ttpsec-text);
+}
+
+table tr:hover td {
+  background: #1c2333;
+}
+
+/* Badges */
+img[src*="shields.io"] {
+  margin-right: 4px;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid var(--ttpsec-purple) !important;
+  background: var(--ttpsec-bg-alt);
+  padding: 10px 16px;
+  margin: 16px 0;
+  color: var(--ttpsec-text-muted);
+  font-size: 14px;
+}
+
+/* Code blocks */
+code {
+  background: var(--ttpsec-bg-alt);
+  border: 1px solid var(--ttpsec-border);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+pre {
+  background: var(--ttpsec-bg-alt) !important;
+  border: 1px solid var(--ttpsec-border);
+  border-radius: 6px;
+  padding: 14px;
+}
+
+/* Lists */
+ul, ol {
+  color: var(--ttpsec-text);
+}
+
+li {
+  margin-bottom: 4px;
+}
+
+/* HR */
+hr {
+  border: none;
+  border-top: 1px solid var(--ttpsec-border);
+  margin: 24px 0;
+}
+
+/* Footer */
+footer {
+  border-top: 1px solid var(--ttpsec-border);
+  padding-top: 12px;
+  font-size: 12px;
+  color: var(--ttpsec-text-muted);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  table { font-size: 12px; }
+  table th, table td { padding: 4px 6px; }
+  header h1 { font-size: 18px !important; }
+}
