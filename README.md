@@ -2,7 +2,7 @@
 
 **Directorio automatizado de eventos de ciberseguridad, tecnología e innovación en Chile, LATAM y el mundo.**
 
-[![Actualización automática](https://img.shields.io/badge/actualizaci%C3%B3n-lunes%20%26%20jueves-blue)](https://github.com/ttpsecspa/cybersec-events-tracker/actions)
+[![Actualización automática](https://img.shields.io/badge/actualizaci%C3%B3n-cada%203%20horas-blue)](https://github.com/ttpsecspa/cybersec-events-tracker/actions)
 [![Eventos](https://img.shields.io/badge/eventos-37-brightgreen)](docs/upcoming.md)
 [![Próximos](https://img.shields.io/badge/pr%C3%B3ximos-34-orange)](docs/upcoming.md)
 [![Fuentes](https://img.shields.io/badge/fuentes-32-purple)](docs/sources.md)
@@ -83,7 +83,7 @@ python scraper.py
 
 ## 📡 Actualización automática
 
-Este repositorio se actualiza automáticamente cada **lunes y jueves a las 08:00 UTC** mediante GitHub Actions. El scraper revisa 32 fuentes y actualiza la documentación.
+Este repositorio se actualiza automáticamente **cada 3 horas** mediante GitHub Actions. El scraper revisa 32 fuentes y actualiza la documentación.
 
 ---
 

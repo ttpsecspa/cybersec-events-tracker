@@ -1166,7 +1166,7 @@ class MarkdownGenerator:
                       "tecnología e innovación en Chile, LATAM y el mundo.**")
         lines.append("")
         lines.append("[![Actualización automática]"
-                      "(https://img.shields.io/badge/actualizaci%C3%B3n-lunes%20%26%20jueves-blue)]"
+                      "(https://img.shields.io/badge/actualizaci%C3%B3n-cada%203%20horas-blue)]"
                       "(https://github.com/ttpsecspa/cybersec-events-tracker/actions)")
         lines.append("[![Eventos]"
                       f"(https://img.shields.io/badge/eventos-{stats['total']}-brightgreen)]"
@@ -1273,8 +1273,8 @@ class MarkdownGenerator:
         # Footer
         lines.append("## \U0001f4e1 Actualización automática")
         lines.append("")
-        lines.append("Este repositorio se actualiza automáticamente cada **lunes y jueves "
-                      "a las 08:00 UTC** mediante GitHub Actions. El scraper revisa "
+        lines.append("Este repositorio se actualiza automáticamente **cada 3 horas** "
+                      "mediante GitHub Actions. El scraper revisa "
                       f"{len(FUENTES)} fuentes y actualiza la documentación.")
         lines.append("")
         lines.append("---")
@@ -1458,7 +1458,7 @@ class MarkdownGenerator:
         lines.append(f"> Total: **{len(FUENTES)}** fuentes | Actualizado: {self.today}")
         lines.append("")
         lines.append("El scraper revisa automáticamente las siguientes fuentes "
-                      "cada lunes y jueves:")
+                      "cada 3 horas:")
         lines.append("")
         lines.append("| # | Fuente | URL | Foco |")
         lines.append("| :---: | --- | --- | --- |")

@@ -2,7 +2,7 @@
 
 > Total: **32** fuentes | Actualizado: 2026-03-10
 
-El scraper revisa automáticamente las siguientes fuentes cada lunes y jueves:
+El scraper revisa automáticamente las siguientes fuentes cada 3 horas:
 
 | # | Fuente | URL | Foco |
 | :---: | --- | --- | --- |
