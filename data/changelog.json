@@ -1,0 +1,61 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "2026-03-10",
+    "commit": "5ae32bd",
+    "description": "Lanzamiento inicial",
+    "changes": [
+      "Scraper con 32 fuentes de eventos de ciberseguridad",
+      "37 eventos registrados (Chile, LATAM, Global)",
+      "Documentación auto-generada: upcoming, by-region, by-category, calendar, sources",
+      "GitHub Pages con tema Cayman",
+      "GitHub Actions para actualización automática (lunes y jueves)"
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "date": "2026-03-11",
+    "commit": "c521589",
+    "description": "Actualización de frecuencia de scraping",
+    "changes": [
+      "Cron actualizado de lunes/jueves a cada 3 horas (0 */3 * * *)",
+      "Badge y textos actualizados a 'cada 3 horas'"
+    ]
+  },
+  {
+    "version": "2.0.0",
+    "date": "2026-03-11",
+    "commit": "8b7f79c",
+    "description": "Rebrand completo a TTPSEC dark theme",
+    "changes": [
+      "Tema cambiado de Cayman (claro) a Hacker (oscuro)",
+      "CSS custom con branding TTPSEC: púrpura #5E17EB",
+      "Header compacto (22px título, sin banner gigante)",
+      "Fondo oscuro #0d1117 estilo GitHub dark",
+      "Tablas con headers púrpura oscuro y hover en filas",
+      "Gradiente en header: dark → #1a0a3e",
+      "Blockquotes con borde púrpura",
+      "Diseño responsive para mobile"
+    ]
+  },
+  {
+    "version": "2.0.1",
+    "date": "2026-03-11",
+    "commit": "669cea2",
+    "description": "Mejora de contraste en links de tablas",
+    "changes": [
+      "Links de eventos en tablas cambiados a color más legible",
+      "Mejor contraste sobre fondo oscuro"
+    ]
+  },
+  {
+    "version": "2.0.2",
+    "date": "2026-03-12",
+    "commit": "ee89906",
+    "description": "Links púrpura unificados",
+    "changes": [
+      "Color de links unificado a púrpura claro #c8b6ff",
+      "Nombres de eventos legibles en púrpura sobre fondo oscuro"
+    ]
+  }
+]
