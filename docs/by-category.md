@@ -2,7 +2,7 @@
 
 > Actualizado: 2026-03-12
 
-## 🛡️ Ciberseguridad (31 eventos)
+## 🛡️ Ciberseguridad (32 eventos)
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Global | 2026-03-18 | Virtual (CTF) | Online |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | Global | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
+| 🟡 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | Global | 2026-04-22 |  | Presencial |
 | 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
 | 🟡 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | LATAM | 2026-04-28 → 2026-04-29 | São Paulo, Brasil | Presencial |
 | 🟡 | 🇵🇪 | [8.8 Unreal Peru 2026](https://welcu.com/8dot8) | LATAM | 2026-05-06 | Miraflores, Lima | Presencial |
@@ -84,12 +85,13 @@
 | 🟢 | 🇨🇱 | [América Digital 2026 - 11° Congreso Latinoamericano](https://congreso.america-digital.com/) | Chile | 2026-09-09 → 2026-09-10 | Espacio Riesco, Santiago | Presencial |
 | 🟢 | 🇧🇷 | [Futurecom 2026 (31° Edición)](https://www.futurecom.com.br/) | LATAM | 2026-10-06 → 2026-10-08 | São Paulo Expo, São Paulo | Presencial |
 
-## 🏴‍☠️ Hacking & CTF (12 eventos)
+## 🏴‍☠️ Hacking & CTF (13 eventos)
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
 | 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Global | 2026-03-18 | Virtual (CTF) | Online |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
+| 🟡 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | Global | 2026-04-22 |  | Presencial |
 | 🟡 | 🇨🇴 | [BSides Colombia 2026](https://www.eventbrite.co/e/entradas-bsides-colombia-2026-pereira-1981386899554?aff=eprofsaved) | Global | 2026-04-25 |  | Presencial |
 | 🟡 | 🇵🇪 | [8.8 Unreal Peru 2026](https://welcu.com/8dot8) | LATAM | 2026-05-06 | Miraflores, Lima | Presencial |
 | 🟡 | 🇺🇸 | [Ekoparty Miami 2026](https://ekoparty.org/miami/) | Global | 2026-05-21 → 2026-05-22 | Miami Beach, FL | Presencial |

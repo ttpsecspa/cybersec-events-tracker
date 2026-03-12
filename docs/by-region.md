@@ -36,12 +36,13 @@
 | 🟢 | 🇵🇦 | [CyberSecurity Bank & Government Panamá 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-panama-2026/) | 2026-10-22 | Sheraton Grand Panama, Ciudad de Panamá | Presencial |
 | 🟢 | 🇦🇷 | [Ekoparty Buenos Aires 2026](https://ekoparty.org/) | 2026-11-02 → 2026-11-04 | Centro de Convenciones Buenos Aires (CEC) | Presencial |
 
-## 🌐 Global (10 eventos)
+## 🌐 Global (11 eventos)
 
 |  |  | Evento | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- |
 | 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | 2026-03-18 | Virtual (CTF) | Online |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
+| 🟡 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-22 |  | Presencial |
 | 🟡 | 🇨🇴 | [BSides Colombia 2026](https://www.eventbrite.co/e/entradas-bsides-colombia-2026-pereira-1981386899554?aff=eprofsaved) | 2026-04-25 |  | Presencial |
 | 🟡 | 🇺🇸 | [Ekoparty Miami 2026](https://ekoparty.org/miami/) | 2026-05-21 → 2026-05-22 | Miami Beach, FL | Presencial |
 | 🟡 | 🌐 | [21 y 22 de mayo 2026](https://ekoparty.org/miami/) | 2026-05-22 |  | Presencial |

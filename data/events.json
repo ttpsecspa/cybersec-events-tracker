@@ -2,9 +2,9 @@
   "metadata": {
     "project": "cybersec-events-tracker",
     "maintainer": "TTPSEC SpA — https://ttpsec.cl",
-    "last_updated": "2026-03-12 13:19:31 UTC",
-    "total_events": 37,
-    "upcoming_events": 34,
+    "last_updated": "2026-03-12 16:06:19 UTC",
+    "total_events": 38,
+    "upcoming_events": 35,
     "categories": [
       "Ciberseguridad",
       "OT/ICS",
@@ -292,6 +292,30 @@
       "event_id": "b5d3b07e27b3",
       "is_upcoming": true,
       "days_until": 26
+    },
+    {
+      "name": "Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing",
+      "date_start": "2026-04-22",
+      "date_end": null,
+      "location": "",
+      "country": "",
+      "region": "Global",
+      "categories": [
+        "Ciberseguridad",
+        "Hacking & CTF"
+      ],
+      "url": "https://bsidesco.short.gy/LP-Fuzz",
+      "description": "",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "",
+      "cfp_deadline": null,
+      "relevance_tags": [],
+      "source": "BSides Colombia",
+      "last_updated": "2026-03-12",
+      "event_id": "3938ced2d5c2",
+      "is_upcoming": true,
+      "days_until": 41
     },
     {
       "name": "CyberSecurity Bank & Government Perú 2026",
