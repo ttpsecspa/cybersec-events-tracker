@@ -2,9 +2,9 @@
   "metadata": {
     "project": "cybersec-events-tracker",
     "maintainer": "TTPSEC SpA — https://ttpsec.cl",
-    "last_updated": "2026-03-13 15:52:39 UTC",
-    "total_events": 38,
-    "upcoming_events": 34,
+    "last_updated": "2026-03-13 18:55:14 UTC",
+    "total_events": 39,
+    "upcoming_events": 35,
     "categories": [
       "Ciberseguridad",
       "OT/ICS",
@@ -118,6 +118,29 @@
       "event_id": "8bc5bec1614f",
       "is_upcoming": false,
       "days_until": -4
+    },
+    {
+      "name": "DEF CON Middle East Dates!",
+      "date_start": "2026-03-13",
+      "date_end": null,
+      "location": "",
+      "country": "",
+      "region": "Global",
+      "categories": [
+        "Hacking & CTF"
+      ],
+      "url": "",
+      "description": "",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "",
+      "cfp_deadline": null,
+      "relevance_tags": [],
+      "source": "DEF CON",
+      "last_updated": "2026-03-13",
+      "event_id": "879f024e9cfe",
+      "is_upcoming": true,
+      "days_until": 0
     },
     {
       "name": "CyberSecurity Bank & Government Chile 2026",

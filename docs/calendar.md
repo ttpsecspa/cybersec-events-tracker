@@ -6,6 +6,7 @@
 
 | Día | | Evento | Lugar | Formato |
 | :---: | :---: | --- | --- | --- |
+| 13 | 🌐 | DEF CON Middle East Dates! |  | Presencial |
 | 17 | 🇨🇱 | [CyberSecurity Bank & Government Chile 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-chile-2026/) | Sheraton Santiago | Presencial |
 | 18 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | City of Knowledge, Ciudad de Panamá | Presencial |
 | 18 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Virtual (CTF) | Online |

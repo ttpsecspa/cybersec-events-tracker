@@ -3,8 +3,8 @@
 **Directorio automatizado de eventos de ciberseguridad, tecnología e innovación en Chile, LATAM y el mundo.**
 
 [![Actualización automática](https://img.shields.io/badge/actualizaci%C3%B3n-cada%203%20horas-blue)](https://github.com/ttpsecspa/cybersec-events-tracker/actions)
-[![Eventos](https://img.shields.io/badge/eventos-38-brightgreen)](docs/upcoming.md)
-[![Próximos](https://img.shields.io/badge/pr%C3%B3ximos-34-orange)](docs/upcoming.md)
+[![Eventos](https://img.shields.io/badge/eventos-39-brightgreen)](docs/upcoming.md)
+[![Próximos](https://img.shields.io/badge/pr%C3%B3ximos-35-orange)](docs/upcoming.md)
 [![Fuentes](https://img.shields.io/badge/fuentes-32-purple)](docs/sources.md)
 [![MIT License](https://img.shields.io/badge/licencia-MIT-green)](LICENSE)
 
@@ -14,11 +14,11 @@
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
+| 🔴 | 🌐 | DEF CON Middle East Dates! | Global | 2026-03-13 |  | Presencial |
 | 🔴 | 🇨🇱 | [CyberSecurity Bank & Government Chile 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-chile-2026/) | Chile | 2026-03-17 | Sheraton Santiago | Presencial |
 | 🔴 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | LATAM | 2026-03-18 | City of Knowledge, Ciudad de Panamá | Presencial |
 | 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Global | 2026-03-18 | Virtual (CTF) | Online |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
-| 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | Global | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
 
 > 🔴 Menos de 30 días | 🟡 Menos de 90 días | 🟢 Más de 90 días
 
@@ -26,8 +26,8 @@
 
 ## 📚 Índice
 
-- 📋 **[Todos los próximos eventos](docs/upcoming.md)** (34 eventos)
-- 🌎 **[Eventos por región](docs/by-region.md)** (🇨🇱 Chile: 6 | LATAM: 17 | 🌐 Global: 11)
+- 📋 **[Todos los próximos eventos](docs/upcoming.md)** (35 eventos)
+- 🌎 **[Eventos por región](docs/by-region.md)** (🇨🇱 Chile: 6 | LATAM: 17 | 🌐 Global: 12)
 - 🏷️ **[Eventos por categoría](docs/by-category.md)** (8 categorías)
 - 📅 **[Vista calendario](docs/calendar.md)** (vista mensual con banderas)
 - 📡 **[Fuentes monitoreadas](docs/sources.md)** (32 fuentes)
@@ -62,7 +62,7 @@ python scraper.py --stats
 - **IA & Data** (6 eventos)
 - **Fintech** (1 eventos)
 - **Transformación Digital** (5 eventos)
-- **Hacking & CTF** (16 eventos)
+- **Hacking & CTF** (17 eventos)
 - **Governance & Compliance** (10 eventos)
 
 ## 🤝 Contribuir
