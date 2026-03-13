@@ -1,6 +1,6 @@
 # 🏷️ Eventos por categoría
 
-> Actualizado: 2026-03-12
+> Actualizado: 2026-03-13
 
 ## 🛡️ Ciberseguridad (32 eventos)
 
@@ -58,11 +58,10 @@
 | 🟢 | 🇺🇸 | [CrowdStrike Fal.Con 2026](https://www.crowdstrike.com/en-us/events/fal-con/) | Global | 2026-08-31 → 2026-09-03 | Mandalay Bay, Las Vegas, NV | Presencial |
 | 🟢 | 🇧🇷 | [Futurecom 2026 (31° Edición)](https://www.futurecom.com.br/) | LATAM | 2026-10-06 → 2026-10-08 | São Paulo Expo, São Paulo | Presencial |
 
-## 🤖 IA & Data (6 eventos)
+## 🤖 IA & Data (5 eventos)
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
-| ✅ | 🇨🇴 | [Andina Link Smart Cities Expo 2026](https://andinalink.com/) | LATAM | 2026-03-09 → 2026-03-12 | Hotel Las Americas, Cartagena de Indias | Presencial |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🔴 | 🇨🇱 | [MadeInnConce 2026](https://www.madeinnconce.org/) | Chile | 2026-04-07 → 2026-04-09 | Teatro Biobío, Concepción | Presencial |
 | 🟡 | 🇨🇴 | [BSides Colombia 2026](https://www.eventbrite.co/e/entradas-bsides-colombia-2026-pereira-1981386899554?aff=eprofsaved) | Global | 2026-04-25 |  | Presencial |
@@ -75,11 +74,10 @@
 | :---: | :---: | --- | --- | --- | --- | --- |
 | 🟡 | 🇨🇱 | [Chile Fintech Forum 2026](https://www.chilefintechforum.com/) | Chile | 2026-05-06 → 2026-05-07 | Espacio Riesco, Santiago | Presencial |
 
-## 🚀 Transformación Digital (5 eventos)
+## 🚀 Transformación Digital (4 eventos)
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
-| ✅ | 🇨🇴 | [Andina Link Smart Cities Expo 2026](https://andinalink.com/) | LATAM | 2026-03-09 → 2026-03-12 | Hotel Las Americas, Cartagena de Indias | Presencial |
 | 🔴 | 🇨🇱 | [MadeInnConce 2026](https://www.madeinnconce.org/) | Chile | 2026-04-07 → 2026-04-09 | Teatro Biobío, Concepción | Presencial |
 | 🟢 | 🇨🇴 | [ANDICOM 2026](https://andicom.co/en/) | LATAM | 2026-09-01 → 2026-09-04 | Hotel Las Americas, Cartagena de Indias | Presencial |
 | 🟢 | 🇨🇱 | [América Digital 2026 - 11° Congreso Latinoamericano](https://congreso.america-digital.com/) | Chile | 2026-09-09 → 2026-09-10 | Espacio Riesco, Santiago | Presencial |

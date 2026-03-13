@@ -1,6 +1,6 @@
 # 🌎 Eventos por región
 
-> Actualizado: 2026-03-12
+> Actualizado: 2026-03-13
 
 ## 🇨🇱 Chile (6 eventos)
 
@@ -13,11 +13,10 @@
 | 🟢 | 🇨🇱 | [América Digital 2026 - 11° Congreso Latinoamericano](https://congreso.america-digital.com/) | 2026-09-09 → 2026-09-10 | Espacio Riesco, Santiago | Presencial |
 | 🟢 | 🇨🇱 | [8.8 Unreal Chile 2026](https://unreal.8dot8.org/) | 2026-10-01 → 2026-10-02 | Santiago | Presencial |
 
-## 🌎 LATAM (18 eventos)
+## 🌎 LATAM (17 eventos)
 
 |  |  | Evento | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- |
-| ✅ | 🇨🇴 | [Andina Link Smart Cities Expo 2026](https://andinalink.com/) | 2026-03-09 → 2026-03-12 | Hotel Las Americas, Cartagena de Indias | Presencial |
 | 🔴 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | 2026-03-18 | City of Knowledge, Ciudad de Panamá | Presencial |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | 2026-04-23 | Lima, Perú | Presencial |
