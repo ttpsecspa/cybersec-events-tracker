@@ -2,9 +2,9 @@
   "metadata": {
     "project": "cybersec-events-tracker",
     "maintainer": "TTPSEC SpA — https://ttpsec.cl",
-    "last_updated": "2026-03-14 09:42:37 UTC",
-    "total_events": 39,
-    "upcoming_events": 34,
+    "last_updated": "2026-03-14 13:09:35 UTC",
+    "total_events": 41,
+    "upcoming_events": 36,
     "categories": [
       "Ciberseguridad",
       "OT/ICS",
@@ -369,6 +369,29 @@
       "days_until": 40
     },
     {
+      "name": "24 de abril de 2026",
+      "date_start": "2026-04-24",
+      "date_end": null,
+      "location": "",
+      "country": "",
+      "region": "Global",
+      "categories": [
+        "Hacking & CTF"
+      ],
+      "url": "https://bsidesco.short.gy/LP-Fuzz",
+      "description": "",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "",
+      "cfp_deadline": null,
+      "relevance_tags": [],
+      "source": "BSides Colombia",
+      "last_updated": "2026-03-14",
+      "event_id": "226ae7e9d5f9",
+      "is_upcoming": true,
+      "days_until": 41
+    },
+    {
       "name": "BSides Colombia 2026",
       "date_start": "2026-04-25",
       "date_end": null,
@@ -389,6 +412,29 @@
       "source": "BSides Colombia",
       "last_updated": "2026-03-10",
       "event_id": "d824a43d01f5",
+      "is_upcoming": true,
+      "days_until": 42
+    },
+    {
+      "name": "25 de abril de 2026",
+      "date_start": "2026-04-25",
+      "date_end": null,
+      "location": "",
+      "country": "",
+      "region": "Global",
+      "categories": [
+        "Hacking & CTF"
+      ],
+      "url": "https://bsidesco.short.gy/LP-Fuzz",
+      "description": "",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "",
+      "cfp_deadline": null,
+      "relevance_tags": [],
+      "source": "BSides Colombia",
+      "last_updated": "2026-03-14",
+      "event_id": "3867e1579f4b",
       "is_upcoming": true,
       "days_until": 42
     },

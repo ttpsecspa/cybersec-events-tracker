@@ -19,7 +19,9 @@
 | 7 | 🇨🇱 | [MadeInnConce 2026](https://www.madeinnconce.org/) | Teatro Biobío, Concepción | Presencial |
 | 22 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) |  | Presencial |
 | 23 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | Lima, Perú | Presencial |
+| 24 | 🌐 | [24 de abril de 2026](https://bsidesco.short.gy/LP-Fuzz) |  | Presencial |
 | 25 | 🇨🇴 | [BSides Colombia 2026](https://www.eventbrite.co/e/entradas-bsides-colombia-2026-pereira-1981386899554?aff=eprofsaved) |  | Presencial |
+| 25 | 🌐 | [25 de abril de 2026](https://bsidesco.short.gy/LP-Fuzz) |  | Presencial |
 | 28 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | São Paulo, Brasil | Presencial |
 
 ### 📆 Mayo 2026
