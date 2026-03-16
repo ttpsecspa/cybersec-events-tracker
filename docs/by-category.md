@@ -1,6 +1,6 @@
 # 🏷️ Eventos por categoría
 
-> Actualizado: 2026-03-15
+> Actualizado: 2026-03-16
 
 ## 🛡️ Ciberseguridad (32 eventos)
 
@@ -24,7 +24,7 @@
 | 🟡 | 🇲🇽 | [CCICON LATAM 2026 - Congreso Ciberseguridad Industrial](https://cci-con.org/congreso/26/) | LATAM | 2026-05-26 → 2026-05-27 | Ciudad de México | Presencial |
 | 🟡 | 🇵🇪 | [SEGURITEC Perú 2026](https://www.seguritecperu.com/) | LATAM | 2026-05-27 → 2026-05-29 | Centro de Exposiciones Jockey, Lima | Presencial |
 | 🟡 | 🇲🇽 | [Expo Seguridad México + Infosecurity México 2026](https://www.exposeguridadmexico.com) | LATAM | 2026-06-02 → 2026-06-04 | Centro Citibanamex, CDMX | Presencial |
-| 🟢 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | Global | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial |
+| 🟡 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | Global | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial |
 | 🟢 | 🇺🇸 | [Black Hat USA 2026](https://www.blackhat.com/) | Global | 2026-08-01 → 2026-08-06 | Las Vegas, NV | Presencial |
 | 🟢 | 🇺🇸 | [DEF CON 34](https://defcon.org/) | Global | 2026-08-06 → 2026-08-09 | Las Vegas, NV | Presencial |
 | 🟢 | 🇺🇸 | [CrowdStrike Fal.Con 2026](https://www.crowdstrike.com/en-us/events/fal-con/) | Global | 2026-08-31 → 2026-09-03 | Mandalay Bay, Las Vegas, NV | Presencial |
@@ -113,7 +113,7 @@
 | 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
 | 🟡 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | LATAM | 2026-04-28 → 2026-04-29 | São Paulo, Brasil | Presencial |
 | 🟡 | 🇲🇽 | [CyberSecurity Bank & Government México 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-mexico-2026/) | LATAM | 2026-05-14 | Marriott Reforma, CDMX | Presencial |
-| 🟢 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | Global | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial |
+| 🟡 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | Global | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial |
 | 🟢 | 🇪🇨 | [ISACA Latin American Congress 2026](https://www.isaca.org/training-and-events) | LATAM | 2026-09-09 → 2026-09-11 | JW Marriott, Quito | Presencial |
 | 🟢 | 🇧🇷 | [Mind The Sec 2026](https://www.mindthesec.com.br/) | LATAM | 2026-09-15 → 2026-09-17 | Transamerica Expo Center, São Paulo | Presencial |
 | 🟢 | 🇵🇦 | [CyberSecurity Bank & Government Panamá 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-panama-2026/) | LATAM | 2026-10-22 | Sheraton Grand Panama, Ciudad de Panamá | Presencial |

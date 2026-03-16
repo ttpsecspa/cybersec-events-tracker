@@ -1,6 +1,6 @@
 # 🌎 Eventos por región
 
-> Actualizado: 2026-03-15
+> Actualizado: 2026-03-16
 
 ## 🇨🇱 Chile (6 eventos)
 
@@ -48,7 +48,7 @@
 | 🟡 | 🇺🇸 | [Ekoparty Miami 2026](https://ekoparty.org/miami/) | 2026-05-21 → 2026-05-22 | Miami Beach, FL | Presencial |
 | 🟡 | 🌐 | [21 y 22 de mayo 2026](https://ekoparty.org/miami/) | 2026-05-22 |  | Presencial |
 | 🟡 | 🌐 | [EKOPARTY MIAMI](https://ekoparty.org/miami/) | 2026-05-22 |  | Presencial |
-| 🟢 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial |
+| 🟡 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial |
 | 🟢 | 🇺🇸 | [Black Hat USA 2026](https://www.blackhat.com/) | 2026-08-01 → 2026-08-06 | Las Vegas, NV | Presencial |
 | 🟢 | 🇺🇸 | [DEF CON 34](https://defcon.org/) | 2026-08-06 → 2026-08-09 | Las Vegas, NV | Presencial |
 | 🟢 | 🇺🇸 | [CrowdStrike Fal.Con 2026](https://www.crowdstrike.com/en-us/events/fal-con/) | 2026-08-31 → 2026-09-03 | Mandalay Bay, Las Vegas, NV | Presencial |

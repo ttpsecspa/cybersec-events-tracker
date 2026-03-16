@@ -1,6 +1,6 @@
 # 📋 Próximos eventos de ciberseguridad
 
-> Total: **36** eventos próximos | Actualizado: 2026-03-15
+> Total: **36** eventos próximos | Actualizado: 2026-03-16
 
 > 🔴 Menos de 30 días | 🟡 Menos de 90 días | 🟢 Más de 90 días
 
@@ -28,7 +28,7 @@
 | 🟡 | 🇲🇽 | [CCICON LATAM 2026 - Congreso Ciberseguridad Industrial](https://cci-con.org/congreso/26/) | 2026-05-26 → 2026-05-27 | Ciudad de México | Presencial | — |
 | 🟡 | 🇵🇪 | [SEGURITEC Perú 2026](https://www.seguritecperu.com/) | 2026-05-27 → 2026-05-29 | Centro de Exposiciones Jockey, Lima | Presencial | — |
 | 🟡 | 🇲🇽 | [Expo Seguridad México + Infosecurity México 2026](https://www.exposeguridadmexico.com) | 2026-06-02 → 2026-06-04 | Centro Citibanamex, CDMX | Presencial | — |
-| 🟢 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial | — |
+| 🟡 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial | — |
 | 🟢 | 🇺🇸 | [Black Hat USA 2026](https://www.blackhat.com/) | 2026-08-01 → 2026-08-06 | Las Vegas, NV | Presencial | — |
 | 🟢 | 🇺🇸 | [DEF CON 34](https://defcon.org/) | 2026-08-06 → 2026-08-09 | Las Vegas, NV | Presencial | — |
 | 🟢 | 🇺🇸 | [CrowdStrike Fal.Con 2026](https://www.crowdstrike.com/en-us/events/fal-con/) | 2026-08-31 → 2026-09-03 | Mandalay Bay, Las Vegas, NV | Presencial | — |
