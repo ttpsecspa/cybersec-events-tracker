@@ -1,12 +1,11 @@
 # 📅 Calendario de eventos
 
-> Actualizado: 2026-03-17
+> Actualizado: 2026-03-18
 
 ### 📆 Marzo 2026
 
 | Día | | Evento | Lugar | Formato |
 | :---: | :---: | --- | --- | --- |
-| 17 | 🇨🇱 | [CyberSecurity Bank & Government Chile 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-chile-2026/) | Sheraton Santiago | Presencial |
 | 18 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | City of Knowledge, Ciudad de Panamá | Presencial |
 | 18 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Virtual (CTF) | Online |
 | 27 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | Dominican Fiesta Convention Center, Santo Domingo | Presencial |

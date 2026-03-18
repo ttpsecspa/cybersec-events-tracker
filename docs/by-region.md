@@ -1,12 +1,11 @@
 # 🌎 Eventos por región
 
-> Actualizado: 2026-03-17
+> Actualizado: 2026-03-18
 
-## 🇨🇱 Chile (6 eventos)
+## 🇨🇱 Chile (5 eventos)
 
 |  |  | Evento | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- |
-| 🔴 | 🇨🇱 | [CyberSecurity Bank & Government Chile 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-chile-2026/) | 2026-03-17 | Sheraton Santiago | Presencial |
 | 🔴 | 🇨🇱 | [MadeInnConce 2026](https://www.madeinnconce.org/) | 2026-04-07 → 2026-04-09 | Teatro Biobío, Concepción | Presencial |
 | 🟡 | 🇨🇱 | [Chile Fintech Forum 2026](https://www.chilefintechforum.com/) | 2026-05-06 → 2026-05-07 | Espacio Riesco, Santiago | Presencial |
 | 🟢 | 🇨🇱 | [SeguridadExpo Chile 2026](https://www.seguridadexpo.cl/) | 2026-09-08 → 2026-09-10 | Metropolitan Santiago | Presencial |

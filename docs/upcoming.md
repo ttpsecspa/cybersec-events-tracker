@@ -1,12 +1,11 @@
 # 📋 Próximos eventos de ciberseguridad
 
-> Total: **36** eventos próximos | Actualizado: 2026-03-17
+> Total: **35** eventos próximos | Actualizado: 2026-03-18
 
 > 🔴 Menos de 30 días | 🟡 Menos de 90 días | 🟢 Más de 90 días
 
 | | | Evento | Fecha | Lugar | Formato | Costo |
 | :---: | :---: | --- | --- | --- | --- | --- |
-| 🔴 | 🇨🇱 | [CyberSecurity Bank & Government Chile 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-chile-2026/) | 2026-03-17 | Sheraton Santiago | Presencial | Gratis para C-Level sector financiero/gobierno |
 | 🔴 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | 2026-03-18 | City of Knowledge, Ciudad de Panamá | Presencial | — |
 | 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | 2026-03-18 | Virtual (CTF) | Online | Gratis |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial | — |

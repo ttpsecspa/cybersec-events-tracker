@@ -1,12 +1,11 @@
 # 🏷️ Eventos por categoría
 
-> Actualizado: 2026-03-17
+> Actualizado: 2026-03-18
 
-## 🛡️ Ciberseguridad (32 eventos)
+## 🛡️ Ciberseguridad (31 eventos)
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
-| 🔴 | 🇨🇱 | [CyberSecurity Bank & Government Chile 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-chile-2026/) | Chile | 2026-03-17 | Sheraton Santiago | Presencial |
 | 🔴 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | LATAM | 2026-03-18 | City of Knowledge, Ciudad de Panamá | Presencial |
 | 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Global | 2026-03-18 | Virtual (CTF) | Online |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
@@ -103,11 +102,10 @@
 | 🟢 | 🇨🇱 | [8.8 Unreal Chile 2026](https://unreal.8dot8.org/) | Chile | 2026-10-01 → 2026-10-02 | Santiago | Presencial |
 | 🟢 | 🇦🇷 | [Ekoparty Buenos Aires 2026](https://ekoparty.org/) | LATAM | 2026-11-02 → 2026-11-04 | Centro de Convenciones Buenos Aires (CEC) | Presencial |
 
-## 📜 Governance & Compliance (10 eventos)
+## 📜 Governance & Compliance (9 eventos)
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
-| 🔴 | 🇨🇱 | [CyberSecurity Bank & Government Chile 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-chile-2026/) | Chile | 2026-03-17 | Sheraton Santiago | Presencial |
 | 🔴 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | LATAM | 2026-03-18 | City of Knowledge, Ciudad de Panamá | Presencial |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | Global | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
 | 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
