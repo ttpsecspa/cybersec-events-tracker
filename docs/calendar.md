@@ -8,6 +8,7 @@
 | :---: | :---: | --- | --- | --- |
 | 18 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | City of Knowledge, Ciudad de Panamá | Presencial |
 | 18 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Virtual (CTF) | Online |
+| 18 | 🌐 | How to Apply |  | Presencial |
 | 27 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 
 ### 📆 Abril 2026

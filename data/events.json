@@ -2,9 +2,9 @@
   "metadata": {
     "project": "cybersec-events-tracker",
     "maintainer": "TTPSEC SpA — https://ttpsec.cl",
-    "last_updated": "2026-03-18 19:14:15 UTC",
-    "total_events": 41,
-    "upcoming_events": 35,
+    "last_updated": "2026-03-18 21:42:55 UTC",
+    "total_events": 42,
+    "upcoming_events": 36,
     "categories": [
       "Ciberseguridad",
       "OT/ICS",
@@ -225,6 +225,29 @@
       "source": "OEA",
       "last_updated": "2026-03-10",
       "event_id": "1d292de2a64d",
+      "is_upcoming": true,
+      "days_until": 0
+    },
+    {
+      "name": "How to Apply",
+      "date_start": "2026-03-18",
+      "date_end": null,
+      "location": "",
+      "country": "",
+      "region": "Global",
+      "categories": [
+        "Hacking & CTF"
+      ],
+      "url": "",
+      "description": "",
+      "cost": null,
+      "format": "Presencial",
+      "organizer": "",
+      "cfp_deadline": null,
+      "relevance_tags": [],
+      "source": "DEF CON",
+      "last_updated": "2026-03-18",
+      "event_id": "0c6363a08425",
       "is_upcoming": true,
       "days_until": 0
     },

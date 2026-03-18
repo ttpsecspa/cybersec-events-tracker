@@ -82,11 +82,12 @@
 | 🟢 | 🇨🇱 | [América Digital 2026 - 11° Congreso Latinoamericano](https://congreso.america-digital.com/) | Chile | 2026-09-09 → 2026-09-10 | Espacio Riesco, Santiago | Presencial |
 | 🟢 | 🇧🇷 | [Futurecom 2026 (31° Edición)](https://www.futurecom.com.br/) | LATAM | 2026-10-06 → 2026-10-08 | São Paulo Expo, São Paulo | Presencial |
 
-## 🏴‍☠️ Hacking & CTF (15 eventos)
+## 🏴‍☠️ Hacking & CTF (16 eventos)
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
 | 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Global | 2026-03-18 | Virtual (CTF) | Online |
+| 🔴 | 🌐 | How to Apply | Global | 2026-03-18 |  | Presencial |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🟡 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | Global | 2026-04-22 |  | Presencial |
 | 🟡 | 🌐 | [24 de abril de 2026](https://bsidesco.short.gy/LP-Fuzz) | Global | 2026-04-24 |  | Presencial |

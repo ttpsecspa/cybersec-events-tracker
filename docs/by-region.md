@@ -34,11 +34,12 @@
 | 🟢 | 🇵🇦 | [CyberSecurity Bank & Government Panamá 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-panama-2026/) | 2026-10-22 | Sheraton Grand Panama, Ciudad de Panamá | Presencial |
 | 🟢 | 🇦🇷 | [Ekoparty Buenos Aires 2026](https://ekoparty.org/) | 2026-11-02 → 2026-11-04 | Centro de Convenciones Buenos Aires (CEC) | Presencial |
 
-## 🌐 Global (13 eventos)
+## 🌐 Global (14 eventos)
 
 |  |  | Evento | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- |
 | 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | 2026-03-18 | Virtual (CTF) | Online |
+| 🔴 | 🌐 | How to Apply | 2026-03-18 |  | Presencial |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
 | 🟡 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-22 |  | Presencial |
 | 🟡 | 🌐 | [24 de abril de 2026](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-24 |  | Presencial |
