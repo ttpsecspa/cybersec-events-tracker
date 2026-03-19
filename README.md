@@ -4,7 +4,7 @@
 
 [![Actualización automática](https://img.shields.io/badge/actualizaci%C3%B3n-cada%203%20horas-blue)](https://github.com/ttpsecspa/cybersec-events-tracker/actions)
 [![Eventos](https://img.shields.io/badge/eventos-42-brightgreen)](docs/upcoming.md)
-[![Próximos](https://img.shields.io/badge/pr%C3%B3ximos-36-orange)](docs/upcoming.md)
+[![Próximos](https://img.shields.io/badge/pr%C3%B3ximos-33-orange)](docs/upcoming.md)
 [![Fuentes](https://img.shields.io/badge/fuentes-32-purple)](docs/sources.md)
 [![MIT License](https://img.shields.io/badge/licencia-MIT-green)](LICENSE)
 
@@ -14,11 +14,11 @@
 
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
-| 🔴 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | LATAM | 2026-03-18 | City of Knowledge, Ciudad de Panamá | Presencial |
-| 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | Global | 2026-03-18 | Virtual (CTF) | Online |
-| 🔴 | 🌐 | How to Apply | Global | 2026-03-18 |  | Presencial |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | Global | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
+| 🔴 | 🇨🇱 | [MadeInnConce 2026](https://www.madeinnconce.org/) | Chile | 2026-04-07 → 2026-04-09 | Teatro Biobío, Concepción | Presencial |
+| 🟡 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | Global | 2026-04-22 |  | Presencial |
+| 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
 
 > 🔴 Menos de 30 días | 🟡 Menos de 90 días | 🟢 Más de 90 días
 
@@ -26,8 +26,8 @@
 
 ## 📚 Índice
 
-- 📋 **[Todos los próximos eventos](docs/upcoming.md)** (36 eventos)
-- 🌎 **[Eventos por región](docs/by-region.md)** (🇨🇱 Chile: 5 | LATAM: 17 | 🌐 Global: 14)
+- 📋 **[Todos los próximos eventos](docs/upcoming.md)** (33 eventos)
+- 🌎 **[Eventos por región](docs/by-region.md)** (🇨🇱 Chile: 5 | LATAM: 16 | 🌐 Global: 12)
 - 🏷️ **[Eventos por categoría](docs/by-category.md)** (8 categorías)
 - 📅 **[Vista calendario](docs/calendar.md)** (vista mensual con banderas)
 - 📡 **[Fuentes monitoreadas](docs/sources.md)** (32 fuentes)
@@ -87,7 +87,7 @@ Este repositorio se actualiza automáticamente **cada 3 horas** mediante GitHub 
 
 ---
 
-_🛡️ Desarrollado y mantenido por [TTPSEC SpA](https://ttpsec.cl) | Última actualización: 2026-03-18_
+_🛡️ Desarrollado y mantenido por [TTPSEC SpA](https://ttpsec.cl) | Última actualización: 2026-03-19_
 
 
 ---

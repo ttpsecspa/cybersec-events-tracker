@@ -1,6 +1,6 @@
 # 🌎 Eventos por región
 
-> Actualizado: 2026-03-18
+> Actualizado: 2026-03-19
 
 ## 🇨🇱 Chile (5 eventos)
 
@@ -12,11 +12,10 @@
 | 🟢 | 🇨🇱 | [América Digital 2026 - 11° Congreso Latinoamericano](https://congreso.america-digital.com/) | 2026-09-09 → 2026-09-10 | Espacio Riesco, Santiago | Presencial |
 | 🟢 | 🇨🇱 | [8.8 Unreal Chile 2026](https://unreal.8dot8.org/) | 2026-10-01 → 2026-10-02 | Santiago | Presencial |
 
-## 🌎 LATAM (17 eventos)
+## 🌎 LATAM (16 eventos)
 
 |  |  | Evento | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- |
-| 🔴 | 🇵🇦 | [Cybertech Latin America 2026](https://panama.cybertechconference.com/) | 2026-03-18 | City of Knowledge, Ciudad de Panamá | Presencial |
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | 2026-04-23 | Lima, Perú | Presencial |
 | 🟡 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | 2026-04-28 → 2026-04-29 | São Paulo, Brasil | Presencial |
@@ -34,12 +33,10 @@
 | 🟢 | 🇵🇦 | [CyberSecurity Bank & Government Panamá 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-panama-2026/) | 2026-10-22 | Sheraton Grand Panama, Ciudad de Panamá | Presencial |
 | 🟢 | 🇦🇷 | [Ekoparty Buenos Aires 2026](https://ekoparty.org/) | 2026-11-02 → 2026-11-04 | Centro de Convenciones Buenos Aires (CEC) | Presencial |
 
-## 🌐 Global (14 eventos)
+## 🌐 Global (12 eventos)
 
 |  |  | Evento | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- |
-| 🔴 | 🇺🇸 | [Copa América de Ciberseguridad OEA 2026](https://www.oas.org/) | 2026-03-18 | Virtual (CTF) | Online |
-| 🔴 | 🌐 | How to Apply | 2026-03-18 |  | Presencial |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
 | 🟡 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-22 |  | Presencial |
 | 🟡 | 🌐 | [24 de abril de 2026](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-24 |  | Presencial |
