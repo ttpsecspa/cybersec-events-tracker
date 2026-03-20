@@ -1,6 +1,6 @@
 # 📡 Fuentes monitoreadas
 
-> Total: **32** fuentes | Actualizado: 2026-03-19
+> Total: **32** fuentes | Actualizado: 2026-03-20
 
 El scraper revisa automáticamente las siguientes fuentes cada 3 horas:
 
