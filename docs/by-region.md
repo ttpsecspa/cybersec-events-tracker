@@ -1,6 +1,6 @@
 # 🌎 Eventos por región
 
-> Actualizado: 2026-03-21
+> Actualizado: 2026-03-22
 
 ## 🇨🇱 Chile (5 eventos)
 

@@ -1,6 +1,6 @@
 # 🏷️ Eventos por categoría
 
-> Actualizado: 2026-03-21
+> Actualizado: 2026-03-22
 
 ## 🛡️ Ciberseguridad (29 eventos)
 

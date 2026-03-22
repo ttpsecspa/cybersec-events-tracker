@@ -1,6 +1,6 @@
 # 📋 Próximos eventos de ciberseguridad
 
-> Total: **33** eventos próximos | Actualizado: 2026-03-21
+> Total: **33** eventos próximos | Actualizado: 2026-03-22
 
 > 🔴 Menos de 30 días | 🟡 Menos de 90 días | 🟢 Más de 90 días
 
