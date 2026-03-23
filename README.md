@@ -17,7 +17,7 @@
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | Global | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
 | 🔴 | 🇨🇱 | [MadeInnConce 2026](https://www.madeinnconce.org/) | Chile | 2026-04-07 → 2026-04-09 | Teatro Biobío, Concepción | Presencial |
-| 🟡 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | Global | 2026-04-22 |  | Presencial |
+| 🔴 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | Global | 2026-04-22 |  | Presencial |
 | 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
 
 > 🔴 Menos de 30 días | 🟡 Menos de 90 días | 🟢 Más de 90 días
@@ -87,7 +87,7 @@ Este repositorio se actualiza automáticamente **cada 3 horas** mediante GitHub 
 
 ---
 
-_🛡️ Desarrollado y mantenido por [TTPSEC SpA](https://ttpsec.cl) | Última actualización: 2026-03-22_
+_🛡️ Desarrollado y mantenido por [TTPSEC SpA](https://ttpsec.cl) | Última actualización: 2026-03-23_
 
 
 ---
