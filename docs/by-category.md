@@ -1,6 +1,6 @@
 # 🏷️ Eventos por categoría
 
-> Actualizado: 2026-03-23
+> Actualizado: 2026-03-24
 
 ## 🛡️ Ciberseguridad (29 eventos)
 
@@ -9,7 +9,7 @@
 | 🔴 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | LATAM | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | Global | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
 | 🔴 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | Global | 2026-04-22 |  | Presencial |
-| 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
+| 🔴 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
 | 🟡 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | LATAM | 2026-04-28 → 2026-04-29 | São Paulo, Brasil | Presencial |
 | 🟡 | 🇵🇪 | [8.8 Unreal Peru 2026](https://welcu.com/8dot8) | LATAM | 2026-05-06 | Miraflores, Lima | Presencial |
 | 🟡 | 🇨🇱 | [Chile Fintech Forum 2026](https://www.chilefintechforum.com/) | Chile | 2026-05-06 → 2026-05-07 | Espacio Riesco, Santiago | Presencial |
@@ -104,7 +104,7 @@
 |  |  | Evento | Región | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- | --- |
 | 🔴 | 🇺🇸 | [RSA Conference 2026](https://www.rsaconference.com/) | Global | 2026-04-06 → 2026-04-09 | San Francisco, CA | Híbrido |
-| 🟡 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
+| 🔴 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | LATAM | 2026-04-23 | Lima, Perú | Presencial |
 | 🟡 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | LATAM | 2026-04-28 → 2026-04-29 | São Paulo, Brasil | Presencial |
 | 🟡 | 🇲🇽 | [CyberSecurity Bank & Government México 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-mexico-2026/) | LATAM | 2026-05-14 | Marriott Reforma, CDMX | Presencial |
 | 🟡 | 🇺🇸 | [FIRST Annual Conference 2026 (38th)](https://www.first.org/conference/2026/) | Global | 2026-06-14 → 2026-06-19 | Denver, Colorado | Presencial |
