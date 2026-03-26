@@ -100,6 +100,16 @@ table tr:hover td {
   background: #1c2333;
 }
 
+/* Event name links in tables — purple, bright & readable */
+table td a {
+  color: #b794f6 !important;
+  font-weight: 600;
+}
+
+table td a:hover {
+  color: #d4bbff !important;
+}
+
 /* Badges */
 img[src*="shields.io"] {
   margin-right: 4px;
