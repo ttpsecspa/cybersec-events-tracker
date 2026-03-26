@@ -1,6 +1,6 @@
 # 📋 Próximos eventos de ciberseguridad
 
-> Total: **33** eventos próximos | Actualizado: 2026-03-25
+> Total: **33** eventos próximos | Actualizado: 2026-03-26
 
 > 🔴 Menos de 30 días | 🟡 Menos de 90 días | 🟢 Más de 90 días
 
@@ -12,8 +12,8 @@
 | 🔴 | 🌐 | [Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-22 |  | Presencial | — |
 | 🔴 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | 2026-04-23 | Lima, Perú | Presencial | — |
 | 🔴 | 🌐 | [24 de abril de 2026](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-24 |  | Presencial | — |
-| 🟡 | 🇨🇴 | [BSides Colombia 2026](https://www.eventbrite.co/e/entradas-bsides-colombia-2026-pereira-1981386899554?aff=eprofsaved) | 2026-04-25 |  | Presencial | — |
-| 🟡 | 🌐 | [25 de abril de 2026](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-25 |  | Presencial | — |
+| 🔴 | 🇨🇴 | [BSides Colombia 2026](https://www.eventbrite.co/e/entradas-bsides-colombia-2026-pereira-1981386899554?aff=eprofsaved) | 2026-04-25 |  | Presencial | — |
+| 🔴 | 🌐 | [25 de abril de 2026](https://bsidesco.short.gy/LP-Fuzz) | 2026-04-25 |  | Presencial | — |
 | 🟡 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | 2026-04-28 → 2026-04-29 | São Paulo, Brasil | Presencial | — |
 | 🟡 | 🇵🇪 | [8.8 Unreal Peru 2026](https://welcu.com/8dot8) | 2026-05-06 | Miraflores, Lima | Presencial | Gratis |
 | 🟡 | 🇨🇱 | [Chile Fintech Forum 2026](https://www.chilefintechforum.com/) | 2026-05-06 → 2026-05-07 | Espacio Riesco, Santiago | Presencial | — |

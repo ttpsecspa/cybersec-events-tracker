@@ -87,7 +87,7 @@ Este repositorio se actualiza automáticamente **cada 3 horas** mediante GitHub 
 
 ---
 
-_🛡️ Desarrollado y mantenido por [TTPSEC SpA](https://ttpsec.cl) | Última actualización: 2026-03-25_
+_🛡️ Desarrollado y mantenido por [TTPSEC SpA](https://ttpsec.cl) | Última actualización: 2026-03-26_
 
 
 ---

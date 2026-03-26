@@ -2,7 +2,7 @@
   "metadata": {
     "project": "cybersec-events-tracker",
     "maintainer": "TTPSEC SpA — https://ttpsec.cl",
-    "last_updated": "2026-03-25 21:49:56 UTC",
+    "last_updated": "2026-03-26 03:16:43 UTC",
     "total_events": 42,
     "upcoming_events": 33,
     "categories": [
@@ -43,7 +43,7 @@
       "last_updated": "2026-03-10",
       "event_id": "1c34e2068fa7",
       "is_upcoming": false,
-      "days_until": -147
+      "days_until": -148
     },
     {
       "name": "Hotel Room Blocks for DEF CON 34 are Open!",
@@ -66,7 +66,7 @@
       "last_updated": "2026-03-10",
       "event_id": "902cbb434780",
       "is_upcoming": false,
-      "days_until": -39
+      "days_until": -40
     },
     {
       "name": "Introducing the New DEF CON CTF Organizers: Benevolent Bureau of Birds!",
@@ -89,7 +89,7 @@
       "last_updated": "2026-03-10",
       "event_id": "488344a46326",
       "is_upcoming": false,
-      "days_until": -22
+      "days_until": -23
     },
     {
       "name": "Andina Link Smart Cities Expo 2026",
@@ -117,7 +117,7 @@
       "last_updated": "2026-03-10",
       "event_id": "8bc5bec1614f",
       "is_upcoming": false,
-      "days_until": -16
+      "days_until": -17
     },
     {
       "name": "DEF CON Middle East Dates!",
@@ -140,7 +140,7 @@
       "last_updated": "2026-03-13",
       "event_id": "879f024e9cfe",
       "is_upcoming": false,
-      "days_until": -12
+      "days_until": -13
     },
     {
       "name": "CyberSecurity Bank & Government Chile 2026",
@@ -169,7 +169,7 @@
       "last_updated": "2026-03-10",
       "event_id": "b0fc60058713",
       "is_upcoming": false,
-      "days_until": -8
+      "days_until": -9
     },
     {
       "name": "Cybertech Latin America 2026",
@@ -197,7 +197,7 @@
       "last_updated": "2026-03-10",
       "event_id": "d2a6adc26519",
       "is_upcoming": false,
-      "days_until": -7
+      "days_until": -8
     },
     {
       "name": "Copa América de Ciberseguridad OEA 2026",
@@ -226,7 +226,7 @@
       "last_updated": "2026-03-10",
       "event_id": "1d292de2a64d",
       "is_upcoming": false,
-      "days_until": -7
+      "days_until": -8
     },
     {
       "name": "How to Apply",
@@ -249,7 +249,7 @@
       "last_updated": "2026-03-18",
       "event_id": "0c6363a08425",
       "is_upcoming": false,
-      "days_until": -7
+      "days_until": -8
     },
     {
       "name": "HackConRD 2026 (4ta Edición)",
@@ -279,7 +279,7 @@
       "last_updated": "2026-03-10",
       "event_id": "f363f7ec0047",
       "is_upcoming": true,
-      "days_until": 2
+      "days_until": 1
     },
     {
       "name": "RSA Conference 2026",
@@ -309,7 +309,7 @@
       "last_updated": "2026-03-10",
       "event_id": "0f3e93cb6210",
       "is_upcoming": true,
-      "days_until": 12
+      "days_until": 11
     },
     {
       "name": "MadeInnConce 2026",
@@ -337,7 +337,7 @@
       "last_updated": "2026-03-10",
       "event_id": "b5d3b07e27b3",
       "is_upcoming": true,
-      "days_until": 13
+      "days_until": 12
     },
     {
       "name": "Descubriendo el Laberinto Digital: Explorando las Profundidades de la Seguridad de Aplicaciones con Fuzzing",
@@ -361,7 +361,7 @@
       "last_updated": "2026-03-12",
       "event_id": "3938ced2d5c2",
       "is_upcoming": true,
-      "days_until": 28
+      "days_until": 27
     },
     {
       "name": "CyberSecurity Bank & Government Perú 2026",
@@ -389,7 +389,7 @@
       "last_updated": "2026-03-10",
       "event_id": "657e5ad2a768",
       "is_upcoming": true,
-      "days_until": 29
+      "days_until": 28
     },
     {
       "name": "24 de abril de 2026",
@@ -412,7 +412,7 @@
       "last_updated": "2026-03-14",
       "event_id": "226ae7e9d5f9",
       "is_upcoming": true,
-      "days_until": 30
+      "days_until": 29
     },
     {
       "name": "BSides Colombia 2026",
@@ -436,7 +436,7 @@
       "last_updated": "2026-03-10",
       "event_id": "d824a43d01f5",
       "is_upcoming": true,
-      "days_until": 31
+      "days_until": 30
     },
     {
       "name": "25 de abril de 2026",
@@ -459,7 +459,7 @@
       "last_updated": "2026-03-14",
       "event_id": "3867e1579f4b",
       "is_upcoming": true,
-      "days_until": 31
+      "days_until": 30
     },
     {
       "name": "Gartner Security & Risk Management Summit Brasil 2026",
@@ -489,7 +489,7 @@
       "last_updated": "2026-03-10",
       "event_id": "a6a56b0a9097",
       "is_upcoming": true,
-      "days_until": 34
+      "days_until": 33
     },
     {
       "name": "8.8 Unreal Peru 2026",
@@ -517,7 +517,7 @@
       "last_updated": "2026-03-10",
       "event_id": "ed1f484c10c3",
       "is_upcoming": true,
-      "days_until": 42
+      "days_until": 41
     },
     {
       "name": "Chile Fintech Forum 2026",
@@ -545,7 +545,7 @@
       "last_updated": "2026-03-10",
       "event_id": "bdf8913dfd42",
       "is_upcoming": true,
-      "days_until": 42
+      "days_until": 41
     },
     {
       "name": "LACNIC 45",
@@ -574,7 +574,7 @@
       "last_updated": "2026-03-10",
       "event_id": "3e3252bd94b7",
       "is_upcoming": true,
-      "days_until": 47
+      "days_until": 46
     },
     {
       "name": "CyberSecurity Bank & Government México 2026",
@@ -602,7 +602,7 @@
       "last_updated": "2026-03-10",
       "event_id": "0e28087eb279",
       "is_upcoming": true,
-      "days_until": 50
+      "days_until": 49
     },
     {
       "name": "Ekoparty Miami 2026",
@@ -630,7 +630,7 @@
       "last_updated": "2026-03-10",
       "event_id": "b4742deb97b3",
       "is_upcoming": true,
-      "days_until": 57
+      "days_until": 56
     },
     {
       "name": "21 y 22 de mayo 2026",
@@ -654,7 +654,7 @@
       "last_updated": "2026-03-10",
       "event_id": "70359c10411a",
       "is_upcoming": true,
-      "days_until": 58
+      "days_until": 57
     },
     {
       "name": "EKOPARTY MIAMI",
@@ -678,7 +678,7 @@
       "last_updated": "2026-03-10",
       "event_id": "c14aef02fce8",
       "is_upcoming": true,
-      "days_until": 58
+      "days_until": 57
     },
     {
       "name": "CCICON LATAM 2026 - Congreso Ciberseguridad Industrial",
@@ -707,7 +707,7 @@
       "last_updated": "2026-03-10",
       "event_id": "0fba6e434d43",
       "is_upcoming": true,
-      "days_until": 62
+      "days_until": 61
     },
     {
       "name": "SEGURITEC Perú 2026",
@@ -735,7 +735,7 @@
       "last_updated": "2026-03-10",
       "event_id": "6c07de83597f",
       "is_upcoming": true,
-      "days_until": 63
+      "days_until": 62
     },
     {
       "name": "Expo Seguridad México + Infosecurity México 2026",
@@ -763,7 +763,7 @@
       "last_updated": "2026-03-10",
       "event_id": "a5c860b750fd",
       "is_upcoming": true,
-      "days_until": 69
+      "days_until": 68
     },
     {
       "name": "FIRST Annual Conference 2026 (38th)",
@@ -791,7 +791,7 @@
       "last_updated": "2026-03-10",
       "event_id": "c76a34e21ea6",
       "is_upcoming": true,
-      "days_until": 81
+      "days_until": 80
     },
     {
       "name": "Black Hat USA 2026",
@@ -820,7 +820,7 @@
       "last_updated": "2026-03-10",
       "event_id": "f9b1e1a413ae",
       "is_upcoming": true,
-      "days_until": 129
+      "days_until": 128
     },
     {
       "name": "DEF CON 34",
@@ -849,7 +849,7 @@
       "last_updated": "2026-03-10",
       "event_id": "d4f29d987196",
       "is_upcoming": true,
-      "days_until": 134
+      "days_until": 133
     },
     {
       "name": "CrowdStrike Fal.Con 2026",
@@ -878,7 +878,7 @@
       "last_updated": "2026-03-10",
       "event_id": "785a76ad1002",
       "is_upcoming": true,
-      "days_until": 159
+      "days_until": 158
     },
     {
       "name": "ANDICOM 2026",
@@ -907,7 +907,7 @@
       "last_updated": "2026-03-10",
       "event_id": "c855938084dc",
       "is_upcoming": true,
-      "days_until": 160
+      "days_until": 159
     },
     {
       "name": "SeguridadExpo Chile 2026",
@@ -935,7 +935,7 @@
       "last_updated": "2026-03-10",
       "event_id": "fe923a8d4d9e",
       "is_upcoming": true,
-      "days_until": 167
+      "days_until": 166
     },
     {
       "name": "América Digital 2026 - 11° Congreso Latinoamericano",
@@ -965,7 +965,7 @@
       "last_updated": "2026-03-10",
       "event_id": "26636a114779",
       "is_upcoming": true,
-      "days_until": 168
+      "days_until": 167
     },
     {
       "name": "ISACA Latin American Congress 2026",
@@ -994,7 +994,7 @@
       "last_updated": "2026-03-10",
       "event_id": "7feaeab53ead",
       "is_upcoming": true,
-      "days_until": 168
+      "days_until": 167
     },
     {
       "name": "DragonJAR Security Conference 2026 (13° Edición)",
@@ -1023,7 +1023,7 @@
       "last_updated": "2026-03-10",
       "event_id": "d9686334b442",
       "is_upcoming": true,
-      "days_until": 169
+      "days_until": 168
     },
     {
       "name": "Mind The Sec 2026",
@@ -1052,7 +1052,7 @@
       "last_updated": "2026-03-10",
       "event_id": "e649bc2a2791",
       "is_upcoming": true,
-      "days_until": 174
+      "days_until": 173
     },
     {
       "name": "8.8 Unreal Chile 2026",
@@ -1081,7 +1081,7 @@
       "last_updated": "2026-03-10",
       "event_id": "d62de60fc340",
       "is_upcoming": true,
-      "days_until": 190
+      "days_until": 189
     },
     {
       "name": "Futurecom 2026 (31° Edición)",
@@ -1111,7 +1111,7 @@
       "last_updated": "2026-03-10",
       "event_id": "8bde749fede2",
       "is_upcoming": true,
-      "days_until": 195
+      "days_until": 194
     },
     {
       "name": "CyberSecurity Bank & Government Panamá 2026",
@@ -1139,7 +1139,7 @@
       "last_updated": "2026-03-10",
       "event_id": "8915c2942e70",
       "is_upcoming": true,
-      "days_until": 211
+      "days_until": 210
     },
     {
       "name": "Ekoparty Buenos Aires 2026",
@@ -1168,7 +1168,7 @@
       "last_updated": "2026-03-10",
       "event_id": "6dad7a3e266d",
       "is_upcoming": true,
-      "days_until": 222
+      "days_until": 221
     }
   ]
 }
