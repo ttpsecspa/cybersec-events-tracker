@@ -1,6 +1,6 @@
 # 📅 Calendario de eventos
 
-> Actualizado: 2026-03-27
+> Actualizado: 2026-03-28
 
 ### 📆 Marzo 2026
 
