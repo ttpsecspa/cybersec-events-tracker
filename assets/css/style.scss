@@ -239,13 +239,36 @@ footer {
   text-align: center;
 }
 
-/* ── Wrapper / Section backgrounds ── */
-#main_content {
-  background: var(--tt-slate-50);
+/* ── Force light background everywhere ── */
+#main_content,
+section,
+.outer,
+.inner,
+.wrapper {
+  background: var(--tt-slate-50) !important;
 }
 
-section {
-  background: var(--tt-slate-50);
+html {
+  background: var(--tt-slate-50) !important;
+}
+
+/* View on GitHub button */
+header a.button {
+  background: var(--tt-blue-600) !important;
+  border: none !important;
+  color: #fff !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  border-radius: 8px !important;
+  padding: 6px 14px !important;
+}
+
+header a.button:hover {
+  background: var(--tt-blue-700) !important;
+}
+
+header a.button small {
+  color: rgba(255,255,255,0.8) !important;
 }
 
 /* ── Print ── */
