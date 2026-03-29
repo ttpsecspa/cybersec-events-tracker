@@ -1,6 +1,6 @@
 # 🌎 Eventos por región
 
-> Actualizado: 2026-03-28
+> Actualizado: 2026-03-29
 
 ## 🇨🇱 Chile (5 eventos)
 
@@ -12,13 +12,12 @@
 | 🟢 | 🇨🇱 | [América Digital 2026 - 11° Congreso Latinoamericano](https://congreso.america-digital.com/) | 2026-09-09 → 2026-09-10 | Espacio Riesco, Santiago | Presencial |
 | 🟢 | 🇨🇱 | [8.8 Unreal Chile 2026](https://unreal.8dot8.org/) | 2026-10-01 → 2026-10-02 | Santiago | Presencial |
 
-## 🌎 LATAM (16 eventos)
+## 🌎 LATAM (15 eventos)
 
 |  |  | Evento | Fecha | Lugar | Formato |
 | :---: | :---: | --- | --- | --- | --- |
-| ✅ | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | 2026-03-27 → 2026-03-28 | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
 | 🔴 | 🇵🇪 | [CyberSecurity Bank & Government Perú 2026](https://www.mticsproducciones.com/) | 2026-04-23 | Lima, Perú | Presencial |
-| 🟡 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | 2026-04-28 → 2026-04-29 | São Paulo, Brasil | Presencial |
+| 🔴 | 🇧🇷 | [Gartner Security & Risk Management Summit Brasil 2026](https://www.gartner.com/en/conferences/la/security-risk-management-brazil) | 2026-04-28 → 2026-04-29 | São Paulo, Brasil | Presencial |
 | 🟡 | 🇵🇪 | [8.8 Unreal Peru 2026](https://welcu.com/8dot8) | 2026-05-06 | Miraflores, Lima | Presencial |
 | 🟡 | 🇲🇽 | [LACNIC 45](https://www.lacnic.net/) | 2026-05-11 → 2026-05-14 | Guadalajara, México | Presencial |
 | 🟡 | 🇲🇽 | [CyberSecurity Bank & Government México 2026](https://www.mticsproducciones.com/cybersecurity-bank-and-government-mexico-2026/) | 2026-05-14 | Marriott Reforma, CDMX | Presencial |

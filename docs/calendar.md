@@ -1,12 +1,6 @@
 # 📅 Calendario de eventos
 
-> Actualizado: 2026-03-28
-
-### 📆 Marzo 2026
-
-| Día | | Evento | Lugar | Formato |
-| :---: | :---: | --- | --- | --- |
-| 27 | 🇩🇴 | [HackConRD 2026 (4ta Edición)](https://hackconrd.org/) | Dominican Fiesta Convention Center, Santo Domingo | Presencial |
+> Actualizado: 2026-03-29
 
 ### 📆 Abril 2026
 
