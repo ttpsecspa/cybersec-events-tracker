@@ -1,13 +1,13 @@
 ---
 ---
 
-@import "jekyll-theme-hacker";
+@import "jekyll-theme-minimal";
 
-/* ── TTPSEC SpA Design System ──
-   Basado en TTPSEC-STYLE-GUIDE.md
-   Primario: blue-600 #2563eb
-   Fondo: slate-50 #f8fafc
-   Texto: slate-800 #1e293b
+/* ── TTPSEC Design System ──
+   Source: TTPSEC-STYLE-GUIDE.md
+   Primary: blue-600 #2563eb
+   Background: slate-50 #f8fafc
+   Text: slate-800 #1e293b
 */
 
 :root {
@@ -20,7 +20,6 @@
   --tt-blue-100: #dbeafe;
   --tt-blue-50:  #eff6ff;
   --tt-indigo-700: #4338ca;
-  --tt-indigo-500: #6366f1;
   --tt-slate-900: #0f172a;
   --tt-slate-800: #1e293b;
   --tt-slate-700: #334155;
@@ -32,107 +31,61 @@
   --tt-slate-50:  #f8fafc;
 }
 
-/* ── Reset del tema Hacker ── */
 body {
-  background-color: var(--tt-slate-50) !important;
-  color: var(--tt-slate-800) !important;
+  background: var(--tt-slate-50);
+  color: var(--tt-slate-800);
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   font-size: 15px;
   line-height: 1.6;
 }
 
-.inner {
-  max-width: 960px;
-}
+/* ── Links ── */
+a { color: var(--tt-blue-600); text-decoration: none; }
+a:hover { color: var(--tt-blue-800); }
 
-/* ── Header compacto TTPSEC ── */
-header {
-  padding: 12px 0 !important;
-  background: rgba(255,255,255,0.95) !important;
-  backdrop-filter: blur(8px);
-  border-bottom: 1px solid var(--tt-slate-200) !important;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
-}
-
-header h1 {
-  font-size: 18px !important;
-  font-weight: 900 !important;
-  color: var(--tt-blue-900) !important;
-  letter-spacing: -0.025em;
-  margin: 0 !important;
-}
-
-header h1::before {
-  content: none !important;
-}
-
-header h2 {
-  font-size: 11px !important;
-  font-weight: 500 !important;
-  color: var(--tt-slate-500) !important;
-  margin: 2px 0 0 0 !important;
-}
-
-header a,
-header a:hover {
-  text-decoration: none !important;
-}
-
-/* ── Links (blue-600) ── */
-a {
-  color: var(--tt-blue-600) !important;
-  text-decoration: none;
-  transition: color 150ms ease;
-}
-
-a:hover {
-  color: var(--tt-blue-700) !important;
-  text-shadow: none !important;
-}
-
-/* ── Headings ── */
+/* ── Typography ── */
 h1, h2, h3, h4, h5, h6 {
-  color: var(--tt-slate-900) !important;
+  color: var(--tt-slate-900);
   font-weight: 900;
 }
 
 h1 {
   font-size: 1.75em;
-  border-bottom: 1px solid var(--tt-slate-200);
+  border-bottom: 2px solid var(--tt-blue-600);
   padding-bottom: 8px;
-  margin-bottom: 16px;
 }
 
 h2 {
-  font-size: 1.35em;
-  font-weight: 900;
+  font-size: 1.3em;
   border-bottom: 1px solid var(--tt-slate-200);
   padding-bottom: 6px;
-  margin-top: 32px;
+  margin-top: 28px;
 }
 
 h3 {
   font-size: 1.1em;
   font-weight: 800;
-  color: var(--tt-slate-700) !important;
+  color: var(--tt-slate-700);
 }
 
-/* ── Tablas TTPSEC ── */
+strong { color: var(--tt-slate-900); }
+
+/* ── Tables (TTPSEC gradient header) ── */
 table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   margin: 16px 0;
   font-size: 13px;
-  background: #fff;
   border: 1px solid var(--tt-slate-200);
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
 }
 
 table th {
-  background: linear-gradient(to right, var(--tt-blue-600), var(--tt-indigo-700)) !important;
-  color: #fff !important;
+  background: linear-gradient(135deg, var(--tt-blue-600), var(--tt-indigo-700));
+  color: #fff;
   padding: 10px 12px;
   text-align: left;
   font-weight: 700;
@@ -146,36 +99,21 @@ table td {
   padding: 8px 12px;
   border-top: 1px solid var(--tt-slate-100);
   background: #fff;
-  color: var(--tt-slate-800);
+  color: var(--tt-slate-700);
 }
 
-table tr:nth-child(even) td {
-  background: var(--tt-slate-50);
-}
+table tr:nth-child(even) td { background: var(--tt-slate-50); }
+table tr:hover td { background: var(--tt-blue-50); }
 
-table tr:hover td {
-  background: var(--tt-blue-50);
-  transition: background 150ms ease;
-}
-
-/* Event name links in tables */
 table td a {
-  color: var(--tt-blue-600) !important;
+  color: var(--tt-blue-600);
   font-weight: 600;
 }
-
-table td a:hover {
-  color: var(--tt-blue-800) !important;
-}
-
-/* ── Badges ── */
-img[src*="shields.io"] {
-  margin-right: 4px;
-}
+table td a:hover { color: var(--tt-blue-900); }
 
 /* ── Blockquotes ── */
 blockquote {
-  border-left: 3px solid var(--tt-blue-600) !important;
+  border-left: 3px solid var(--tt-blue-600);
   background: var(--tt-blue-50);
   padding: 10px 16px;
   margin: 16px 0;
@@ -196,11 +134,11 @@ code {
 }
 
 pre {
-  background: #fff !important;
+  background: #fff;
   border: 1px solid var(--tt-slate-200);
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
 }
 
 pre code {
@@ -210,73 +148,20 @@ pre code {
   padding: 0;
 }
 
-/* ── Lists ── */
-ul, ol {
-  color: var(--tt-slate-800);
-}
-
-li {
-  margin-bottom: 4px;
-}
-
-strong {
-  color: var(--tt-slate-900);
-}
-
-/* ── HR ── */
+/* ── Misc ── */
 hr {
   border: none;
   border-top: 1px solid var(--tt-slate-200);
   margin: 24px 0;
 }
 
-/* ── Footer ── */
-footer {
-  border-top: 1px solid var(--tt-slate-200);
-  padding-top: 16px;
-  font-size: 12px;
-  color: var(--tt-slate-500);
-  text-align: center;
-}
-
-/* ── Force light background everywhere ── */
-#main_content,
-section,
-.outer,
-.inner,
-.wrapper {
-  background: var(--tt-slate-50) !important;
-}
-
-html {
-  background: var(--tt-slate-50) !important;
-}
-
-/* View on GitHub button */
-header a.button {
-  background: var(--tt-blue-600) !important;
-  border: none !important;
-  color: #fff !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  border-radius: 8px !important;
-  padding: 6px 14px !important;
-}
-
-header a.button:hover {
-  background: var(--tt-blue-700) !important;
-}
-
-header a.button small {
-  color: rgba(255,255,255,0.8) !important;
-}
+img[src*="shields.io"] { margin-right: 4px; }
 
 /* ── Print ── */
 @media print {
-  header, footer, nav { display: none !important; }
-  body { background: white !important; color: black !important; font-size: 11pt; }
-  a { color: var(--tt-blue-800) !important; text-decoration: underline; }
-  table th { background: var(--tt-slate-200) !important; color: black !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  a { color: var(--tt-blue-800); text-decoration: underline; }
+  table th { background: var(--tt-slate-200); color: #000; }
   * { break-inside: avoid; }
 }
 
@@ -284,7 +169,6 @@ header a.button small {
 @media (max-width: 768px) {
   table { font-size: 11px; }
   table th, table td { padding: 5px 8px; }
-  header h1 { font-size: 16px !important; }
   h1 { font-size: 1.4em; }
-  h2 { font-size: 1.15em; }
+  h2 { font-size: 1.1em; }
 }
